@@ -1,0 +1,5 @@
+config SHIELD_TANX66
+    bool "TanX66 Keyboard"
+    depends on ZMK_KEYBOARD
+    help
+      Enable the TanX66 keyboard shield.
