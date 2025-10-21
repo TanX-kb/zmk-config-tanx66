@@ -1,2 +1,2 @@
-# zmk-config-tanx65
+# zmk-config-tanx66
 My first Zmk kb
